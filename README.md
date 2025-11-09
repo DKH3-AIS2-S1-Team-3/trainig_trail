@@ -19,7 +19,7 @@ Before running the notebook, make sure to install the following libraries:
 
 ```bash
 pip install ultralytics albumentations opencv-python-headless
-
+```
 
 Usage
 1. Clone the repository:
@@ -30,9 +30,7 @@ git clone <https://github.com/DKH3-AIS2-S1-Team-3/trainig_trail>
     * Data augmentation
     * YOLOv8 training
 
-
-
-Notes
+## Notes
 * This is a trial model. Accuracy is currently low:
     * Training mAP50: ~41%
     * Validation mAP50: ~24%
